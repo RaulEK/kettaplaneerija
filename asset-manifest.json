@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kettaplaneerija/static/css/main.03115f83.chunk.css",
-    "main.js": "/kettaplaneerija/static/js/main.b94b9feb.chunk.js",
-    "main.js.map": "/kettaplaneerija/static/js/main.b94b9feb.chunk.js.map",
+    "main.js": "/kettaplaneerija/static/js/main.0502c5b1.chunk.js",
+    "main.js.map": "/kettaplaneerija/static/js/main.0502c5b1.chunk.js.map",
     "runtime-main.js": "/kettaplaneerija/static/js/runtime-main.3e4abd4a.js",
     "runtime-main.js.map": "/kettaplaneerija/static/js/runtime-main.3e4abd4a.js.map",
     "static/js/2.0bf80cf2.chunk.js": "/kettaplaneerija/static/js/2.0bf80cf2.chunk.js",
     "static/js/2.0bf80cf2.chunk.js.map": "/kettaplaneerija/static/js/2.0bf80cf2.chunk.js.map",
     "index.html": "/kettaplaneerija/index.html",
-    "precache-manifest.7da86d2ad1e278388ddac844fac683da.js": "/kettaplaneerija/precache-manifest.7da86d2ad1e278388ddac844fac683da.js",
+    "precache-manifest.4bd0e96b9cc1e1d881bc00a7e5330d36.js": "/kettaplaneerija/precache-manifest.4bd0e96b9cc1e1d881bc00a7e5330d36.js",
     "service-worker.js": "/kettaplaneerija/service-worker.js",
     "static/css/main.03115f83.chunk.css.map": "/kettaplaneerija/static/css/main.03115f83.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.3e4abd4a.js",
     "static/js/2.0bf80cf2.chunk.js",
     "static/css/main.03115f83.chunk.css",
-    "static/js/main.b94b9feb.chunk.js"
+    "static/js/main.0502c5b1.chunk.js"
   ]
 }
