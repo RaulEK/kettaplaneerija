@@ -16,7 +16,7 @@ function App() {
     const [userArray, setUserArray] = useState('');
 
     const handleUserArray = (event) => {
-        setUserArray(event.target.value.trim().replace(/,{2,}/, ',').replace(/;{2,}/, ';').replace(/[^0-9,;]/, ""));
+        setUserArray(event.target.value.trim().replace(/,{2,}/, ',').replace(/[^0-9,]/, ""));
     };
 
     const [choice, setChoice] = useState('1');
@@ -51,7 +51,7 @@ function App() {
                     <label className="label">
                         <input type="radio" checked={choice === '4'} onChange={() => handleChoice('4')}/>
                     </label>
-                    Enda oma <input value={userArray} onChange={handleUserArray}/>
+                    Enda oma: <input value={userArray} onChange={handleUserArray}/>
                 </div>
                 <h4>Vajuta algoritmi nupule, et visualiseerimine käivitada.</h4>
             </div>

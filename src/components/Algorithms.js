@@ -3,6 +3,7 @@ import Visualize from './Visualize';
 
 function travelLength(values) {
     let length = 0;
+    length += Math.abs(10 - values[0]);
     for (let i = 1; i < values.length; i++) {
         length += Math.abs(values[i] - values[i - 1]);
     }
